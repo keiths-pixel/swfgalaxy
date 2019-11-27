@@ -1,6 +1,6 @@
 #flash {  
-     width: 428px; /**video size 428 x 240**/  
-     height: 270px; /** +30px **/  
+     width: 100%;  
+     height: 100%;  
      padding-top: 30px;  
      background:#171a21 url(flash_frame_image.jpg) no-repeat;  
      text-align: center;  
