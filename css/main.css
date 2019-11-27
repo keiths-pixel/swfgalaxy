@@ -20,13 +20,11 @@ button:hover {
   font-family: sans-serif;
   font-weight: bold;
   background-color: white;
+  zoom: 1;
+  filter: alpha(opacity=50);
+  opacity: 0.5;
   color: blue;
   border: 2px solid black;
-}
-  .transparent {
-	zoom: 1;
-	filter: alpha(opacity=50);
-	opacity: 0.5;
 }
 img {
   max-width: 100%;
